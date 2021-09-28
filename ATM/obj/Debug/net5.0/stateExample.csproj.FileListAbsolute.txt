@@ -1,0 +1,16 @@
+C:\Users\wmcgo\source\repos\stateExample\stateExample\bin\Debug\net5.0\stateExample.exe
+C:\Users\wmcgo\source\repos\stateExample\stateExample\bin\Debug\net5.0\stateExample.deps.json
+C:\Users\wmcgo\source\repos\stateExample\stateExample\bin\Debug\net5.0\stateExample.runtimeconfig.json
+C:\Users\wmcgo\source\repos\stateExample\stateExample\bin\Debug\net5.0\stateExample.runtimeconfig.dev.json
+C:\Users\wmcgo\source\repos\stateExample\stateExample\bin\Debug\net5.0\stateExample.dll
+C:\Users\wmcgo\source\repos\stateExample\stateExample\bin\Debug\net5.0\ref\stateExample.dll
+C:\Users\wmcgo\source\repos\stateExample\stateExample\bin\Debug\net5.0\stateExample.pdb
+C:\Users\wmcgo\source\repos\stateExample\stateExample\obj\Debug\net5.0\stateExample.csproj.AssemblyReference.cache
+C:\Users\wmcgo\source\repos\stateExample\stateExample\obj\Debug\net5.0\stateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmcgo\source\repos\stateExample\stateExample\obj\Debug\net5.0\stateExample.AssemblyInfoInputs.cache
+C:\Users\wmcgo\source\repos\stateExample\stateExample\obj\Debug\net5.0\stateExample.AssemblyInfo.cs
+C:\Users\wmcgo\source\repos\stateExample\stateExample\obj\Debug\net5.0\stateExample.csproj.CoreCompileInputs.cache
+C:\Users\wmcgo\source\repos\stateExample\stateExample\obj\Debug\net5.0\stateExample.dll
+C:\Users\wmcgo\source\repos\stateExample\stateExample\obj\Debug\net5.0\ref\stateExample.dll
+C:\Users\wmcgo\source\repos\stateExample\stateExample\obj\Debug\net5.0\stateExample.pdb
+C:\Users\wmcgo\source\repos\stateExample\stateExample\obj\Debug\net5.0\stateExample.genruntimeconfig.cache
